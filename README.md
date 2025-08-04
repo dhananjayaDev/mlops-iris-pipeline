@@ -34,7 +34,7 @@ mlops_project/
 ├── README.md
 ```
 
----
+![Diagram](https://github.com/dhananjayaDev/mlops-iris-pipeline/blob/master/A%20visual%20map%20of%20an%20MLops%20pipeline.png)
 
 ## ⚙️ Setup Instructions
 
