@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/projects/AI%20and%20ML%20Projects/mlops_project/mlruns/427353648000230144/5f1cbecfb2fa4c46a18c67b7051a698e/artifacts
+end_time: 1754300772361
+entry_point_name: ''
+experiment_id: '427353648000230144'
+lifecycle_stage: active
+run_id: 5f1cbecfb2fa4c46a18c67b7051a698e
+run_name: suave-bird-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754300768550
+status: 3
+tags: []
+user_id: a12u

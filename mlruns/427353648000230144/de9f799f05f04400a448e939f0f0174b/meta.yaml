@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/projects/AI%20and%20ML%20Projects/mlops_project/mlruns/427353648000230144/de9f799f05f04400a448e939f0f0174b/artifacts
+end_time: 1754302946654
+entry_point_name: ''
+experiment_id: '427353648000230144'
+lifecycle_stage: active
+run_id: de9f799f05f04400a448e939f0f0174b
+run_name: able-lynx-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754302942760
+status: 3
+tags: []
+user_id: a12u
