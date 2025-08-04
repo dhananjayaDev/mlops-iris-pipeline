@@ -4,8 +4,6 @@
 
 A minimal, production-ready MLOps pipeline that trains, tracks, versions, and serves a machine learning model using modern tools.
 
----
-
 ## Features
 
 - ✅ Model training with **scikit-learn**
@@ -16,7 +14,6 @@ A minimal, production-ready MLOps pipeline that trains, tracks, versions, and se
 - ✅ Configurable via `params.yaml`
 - ✅ Remote storage for reproducibility
 
----
 
 ## Project Structure
 
