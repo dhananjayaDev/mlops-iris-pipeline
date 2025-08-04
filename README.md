@@ -102,7 +102,7 @@ dvc push
 
 ---
 
-## 📊 MLflow UI (Optional)
+## MLflow UI (Optional)
 
 ```bash
 mlflow ui
@@ -137,5 +137,4 @@ MIT License. See `LICENSE` file for details.
 Built with ❤️ using scikit-learn, MLflow, DVC, FastAPI, and Docker.
 ```
 
----
 
