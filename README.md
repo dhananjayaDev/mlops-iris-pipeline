@@ -128,7 +128,7 @@ POST /predict
 
 ## License
 
-MIT License. See [https://github.com/dhananjayaDev/mlops-iris-pipeline?tab=MIT-1-ov-file](LICENSE) file for details.
+MIT License. See [LICENSE](https://github.com/dhananjayaDev/mlops-iris-pipeline?tab=MIT-1-ov-file) file for details.
 
 ---
 
