@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/projects/AI%20and%20ML%20Projects/mlops_project/mlruns/427353648000230144/0879432ffebd4d93a5a9b157b5e0c8bb/artifacts
+end_time: 1754303764204
+entry_point_name: ''
+experiment_id: '427353648000230144'
+lifecycle_stage: active
+run_id: 0879432ffebd4d93a5a9b157b5e0c8bb
+run_name: mercurial-kit-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754303758176
+status: 3
+tags: []
+user_id: a12u

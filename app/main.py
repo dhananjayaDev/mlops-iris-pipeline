@@ -4,6 +4,7 @@ from src.predict import predict
 
 app = FastAPI()
 
+# Define input schema
 class InputData(BaseModel):
     sepal_length: float
     sepal_width: float

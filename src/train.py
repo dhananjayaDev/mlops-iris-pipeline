@@ -17,7 +17,11 @@ random_state = params["random_state"]
 n_estimators = params["n_estimators"]
 
 # 🔹 Load dataset
+# 🔹 Load dataset
 df = pd.read_csv("data/iris.csv")
+
+# 🔹 Rename columns to match API input format
+df.columns = [col.replace(" (cm)", "").replace(" ", "_") for col in df.columns]
 X = df.drop(columns="species")
 y = df["species"]
 
