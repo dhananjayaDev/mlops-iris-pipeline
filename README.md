@@ -1,11 +1,10 @@
-```markdown
-# 🧠 MLOps Project: Iris Classification Pipeline
+# MLOps Project: Iris Classification Pipeline
 
 A minimal, production-ready MLOps pipeline that trains, tracks, versions, and serves a machine learning model using modern tools.
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Model training with **scikit-learn**
 - ✅ Experiment tracking via **MLflow**
@@ -17,7 +16,7 @@ A minimal, production-ready MLOps pipeline that trains, tracks, versions, and se
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 mlops_project/
@@ -78,7 +77,7 @@ Visit [http://localhost:8000/docs](http://localhost:8000/docs) for Swagger UI.
 
 ---
 
-## 🐳 Docker Usage
+## Docker Usage
 
 ### Build the Image
 
@@ -94,7 +93,7 @@ docker run -p 8000:8000 mlops-app
 
 ---
 
-## 📦 DVC Remote Setup (Optional)
+## DVC Remote Setup (Optional)
 
 ```bash
 dvc remote add -d localremote ../dvc-storage
@@ -113,7 +112,7 @@ Visit [http://localhost:5000](http://localhost:5000) to explore experiments.
 
 ---
 
-## 🧪 Example Prediction
+## Example Prediction
 
 ```json
 POST /predict
@@ -127,17 +126,16 @@ POST /predict
 
 ---
 
-## 📌 License
+## License
 
 MIT License. See `LICENSE` file for details.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 Built with ❤️ using scikit-learn, MLflow, DVC, FastAPI, and Docker.
 ```
 
 ---
 
-Let me know if you want to include screenshots, diagrams, or GitHub Actions setup in the README. I can help you polish it even further.
