@@ -1,1 +1,91 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# 📦 Virtual Environment
 venv/
+ENV/
+env/
+.venv/
+
+# 📁 IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 📊 DVC
+.dvc/
+*.dvc
+dvc.lock
+dvc-storage/
+
+# 📈 MLflow
+mlruns/
+mlruns.db
+
+# 🔐 Environment Variables
+.env
+.env.*
+
+# 🐳 Docker
+*.tar
+*.img
+*.container
+.dockerignore
+
+# 📄 OS Files
+.DS_Store
+Thumbs.db
+
+# 📦 Package Managers
+pip-wheel-metadata/
+__pypackages__/
+
+# 📁 Models and Data
+models/
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.joblib
+*.pkl
+
+# 🧪 Test Artifacts
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# 🧹 Misc
+*.bak
+*.tmp
+*.swp
+*.~*
+
+# 📜 Logs and Reports
+*.log
+*.out
+*.err
+
+# 🧪 Jupyter Notebooks (optional)
+.ipynb_checkpoints/
+*.ipynb
+
+# 📦 Node (if using frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
