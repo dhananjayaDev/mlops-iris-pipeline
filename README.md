@@ -44,7 +44,7 @@ mlops_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/dhananjayaDev/mlops-iris-pipeline.git>
 cd mlops_project
 ```
 
